@@ -59,6 +59,13 @@
   --brand-experiment-600: rgb(var(--accent), .4);
 }
 
+.homeIcon-r0w4ny path {fill: transparent}
+.homeIcon-r0w4ny {
+background: var(--ocean-home-icon) center/cover no-repeat;
+min-width: 55px;
+min-height: 55px;
+}
+
 html, span:not([class*=spinner-]):not([class*=spinnerItem]) {
   -webkit-backface-visibility: hidden;
           backface-visibility: hidden;
